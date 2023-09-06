@@ -1,0 +1,63 @@
+{
+    "Top 10 Artistas": [
+        "KAROL G",
+        "Mon Laferte",
+        "PXNDX",
+        "Airbag",
+        "Shakira",
+        "Juan Gabriel",
+        "Kudai",
+        "Natalia Lafourcade",
+        "Becky G",
+        "Armonia 10"
+    ],
+    "Generos Musicales Favoritos": [
+        "rock en espanol",
+        "rap latina",
+        "argentine rock",
+        "cantautora mexicana",
+        "mariachi"
+    ],
+    "Top 10 Canciones": [
+        {
+            "Cancion": "TQG",
+            "Artista": "KAROL G, Shakira"
+        },
+        {
+            "Cancion": "Cae el Sol",
+            "Artista": "Airbag"
+        },
+        {
+            "Cancion": "Por Mil Noches",
+            "Artista": "Airbag"
+        },
+        {
+            "Cancion": "PROVENZA",
+            "Artista": "KAROL G"
+        },
+        {
+            "Cancion": "AMARGURA",
+            "Artista": "KAROL G"
+        },
+        {
+            "Cancion": "MAMIII",
+            "Artista": "Becky G, KAROL G"
+        },
+        {
+            "Cancion": "vampire",
+            "Artista": "Olivia Rodrigo"
+        },
+        {
+            "Cancion": "TQG",
+            "Artista": "KAROL G, Shakira"
+        },
+        {
+            "Cancion": "Amor Completo",
+            "Artista": "Mon Laferte"
+        },
+        {
+            "Cancion": "Nuestra Aflicci\u00f3n",
+            "Artista": "PXNDX"
+        }
+    ]
+}
